@@ -1,0 +1,1 @@
+g++ -g -Wall main.cpp -o app
